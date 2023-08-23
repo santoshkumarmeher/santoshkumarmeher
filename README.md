@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santosh Ku. Meher</h1>
 <h3 align="center">A Passionate Python Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" style=" background-blend-mode: screen" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkumarmeher&label=Profile%20views&color=0e75b6&style=flat" alt="santoshkumarmeher" /> </p>
 
