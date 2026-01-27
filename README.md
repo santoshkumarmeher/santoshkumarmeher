@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Ku. Meher</h1>
-<h2 align="center">A Passionate Python Developer</h2>
+<h2 align="center">A Passionate Software Developer</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkumarmeher&label=Profile%20views&color=0e75b6&style=flat" alt="santoshkumarmeher" /> </p>
