@@ -33,7 +33,7 @@
 
 ### 👨‍💻 Programming & Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,django,flask,dotnet" />
+<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,django,flask,dotnet,flutter" />
 </p>
 
 ### 🌐 Frontend & UI
