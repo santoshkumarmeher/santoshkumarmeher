@@ -51,19 +51,6 @@
 <img src="https://skillicons.dev/icons?i=git,linux,opencv,pytorch" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=santoshkumarmeher&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumarmeher&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumarmeher&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 ---
 
