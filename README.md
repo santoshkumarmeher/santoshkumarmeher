@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&center=true&vCenter=true&width=800&height=70&lines=+++++++%3C+Hi+%2C+I'm+Santosh+K.+Meher+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&center=true&vCenter=true&width=900&height=80&lines=+++++++%3C+Hi+%2C+I'm+Santosh+K.+Meher+%2F%3E)](https://git.io/typing-svg)
 <!--<h1 align="center"><font color="blue">Hi, I'm Santosh Ku. Meher</font></h1>-->
 
 
