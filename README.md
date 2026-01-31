@@ -1,4 +1,6 @@
 <!-- Profile Header -->
+![Santosh](https://img.shields.io/badge/Hi%2C%20I'm%20Santosh%20Ku.%20Meher-blue?style=for-the-badge)
+
 <h1 align="center"><font color="blue">Hi, I'm Santosh Ku. Meher</font></h1>
 
 
