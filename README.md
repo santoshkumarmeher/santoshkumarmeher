@@ -1,6 +1,5 @@
 <!-- Profile Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Hi+%2C+I'm+Santosh+K.+Meher)](https://git.io/typing-svg)
-<!--<h1 align="center"><font color="blue">Hi, I'm Santosh Ku. Meher</font></h1>-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Hi+%2C+I'm+Santosh+Kumar+Meher)](https://git.io/typing-svg)<!--<h1 align="center"><font color="blue">Hi, I'm Santosh Ku. Meher</font></h1>-->
 
 
 <h3 align="center">🚀 Passionate Software Developer | Python | Flutter/Dart | Full Stack Web | Cloud</h3>
