@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Santosh Ku. Meher</h1>
-<h3 align="center">🚀 Passionate Software Developer | Python | Full Stack | Cloud</h3>
+<h1 align="center">Hi, I'm Santosh Ku. Meher</h1>
+<h3 align="center">🚀 Passionate Software Developer | Python | Flutter/Dart | Full Stack Web | Cloud</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santoshkumarmeher&label=Profile%20Views&color=blueviolet&style=flat" />
