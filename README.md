@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center"><font color="blue">Hi, I'm Santosh Ku. Meher</font></h1>
-![Name](https://img.shields.io/badge/Santosh-Kumar%20Meher-blue?style=for-the-badge)
+
 
 <h3 align="center">🚀 Passionate Software Developer | Python | Flutter/Dart | Full Stack Web | Cloud</h3>
 
