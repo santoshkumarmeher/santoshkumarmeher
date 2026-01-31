@@ -1,5 +1,6 @@
 <!-- Profile Header -->
 ![Santosh](https://img.shields.io/badge/Hi%2C%20I'm%20Santosh%20Ku.%20Meher-blue?style=for-the-badge)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&center=true&width=435&lines=Santosh+K.+Meher" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0000FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Santosh+Ku.+Meher" />
 </p>
