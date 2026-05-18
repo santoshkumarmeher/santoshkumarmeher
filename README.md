@@ -46,7 +46,7 @@
 
 ### ☁️ Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,mongodb" />
 </p>
 
 ### ⚙️ Tools & Others
