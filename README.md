@@ -41,7 +41,7 @@
 
 ### 🌐 Frontend & UI
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,tailwind" />
 </p>
 
 ### ☁️ Database & Cloud
