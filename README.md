@@ -36,12 +36,12 @@
 
 ### 👨‍💻 Programming & Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,django,flask,dotnet,flutter" />
+<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,django,flask,flutter" />
 </p>
 
 ### 🌐 Frontend & UI
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
 </p>
 
 ### ☁️ Database & Cloud
