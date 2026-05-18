@@ -59,9 +59,9 @@
 <img src="https://skillicons.dev/icons?i=ps,ai,ae" />
 </p>
 
-### ✏️ OS
+### 💻 OS
 <p>
-<img src="https://skillicons.dev/icons?i=window,linux" />
+<img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
 ---
