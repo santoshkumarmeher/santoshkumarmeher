@@ -59,6 +59,10 @@
 <img src="https://skillicons.dev/icons?i=ps,ai,ae" />
 </p>
 
+### ✏️ OS
+<p>
+<img src="https://skillicons.dev/icons?i=window,linux" />
+</p>
 
 ---
 
