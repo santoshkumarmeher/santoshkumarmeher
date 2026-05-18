@@ -54,7 +54,7 @@
 <img src="https://skillicons.dev/icons?i=git,linux,opencv,pytorch" />
 </p>
 
-### ⚙️ Graphic Design and Animation
+### ✏️ Graphic Design and Animation
 <p>
 <img src="https://skillicons.dev/icons?i=ps,ai,ae" />
 </p>
