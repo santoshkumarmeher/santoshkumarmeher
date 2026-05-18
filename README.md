@@ -56,7 +56,7 @@
 
 ### ⚙️ Graphic Design and Animation
 <p>
-<img src="https://skillicons.dev/icons?i=ps,ae" />
+<img src="https://skillicons.dev/icons?i=ps,ai,ae" />
 </p>
 
 
