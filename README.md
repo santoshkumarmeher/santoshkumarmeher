@@ -73,7 +73,7 @@
 ✔️ Cloud Deployment  
 ✔️ Mobile App Development  
 ✔️ Automation & Scripting  
-
+✔️ Graphic Design & Animation 
 ---
 
 ## 📌 Motto
