@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me .
 
 - 💻 Software Developer with strong interest in **Web, Cloud & Mobile Apps**
 - 🧠 Love solving real-world problems using **Python & Modern Tech**
