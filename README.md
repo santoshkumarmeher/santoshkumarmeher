@@ -1,13 +1,13 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Santosh%20Kumar%20Meher&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Flutter%20%7C%20Full%20Stack%20%7C%20Cloud&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<!-- Animated hacker-style header (assets/header.svg) -->
+<img src="./assets/header.svg" width="100%" alt="Santosh Kumar Meher" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%3E+Building+scalable+%26+useful+products;%3E+Python+%7C+Flutter+%7C+Full+Stack+Web;%3E+Cloud+%2B+Automation+%2B+Design;%3E+Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&width=750&height=50&lines=%3E+Building+scalable+%26+useful+products;%3E+Python+%7C+Flutter+%7C+Full+Stack+Web;%3E+Cloud+%2B+Automation+%2B+Design;%3E+Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=santoshkumarmeher&label=PROFILE%20VIEWS&color=24c6dc&style=for-the-badge&labelColor=0f0c29" />
 <img src="https://img.shields.io/github/followers/santoshkumarmeher?label=FOLLOWERS&style=for-the-badge&color=302b63&labelColor=0f0c29&logo=github" />
@@ -15,9 +15,7 @@
 
 </div>
 
-<br/>
-
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## `~/about-me`
 
@@ -46,7 +44,7 @@ print(me.mission())
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## `~/tech-stack`
 
@@ -78,7 +76,7 @@ print(me.mission())
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## `~/featured-skills`
 
@@ -93,7 +91,7 @@ print(me.mission())
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## `~/github-stats`
 
@@ -108,11 +106,29 @@ print(me.mission())
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=santoshkumarmeher&theme=onedark&no-frame=true&no-bg=true&row=7&margin-w=10" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshkumarmeher&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff" width="100%" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
+
+## `~/contribution-snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santoshkumarmeher/santoshkumarmeher/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santoshkumarmeher/santoshkumarmeher/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/santoshkumarmeher/santoshkumarmeher/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
 
 ## `~/connect`
 
@@ -124,16 +140,12 @@ print(me.mission())
 <a href="https://instagram.com/meherphotographer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://fb.com/kumarsantoshmeher"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### 💡 *"Code. Learn. Improve. Repeat."*
 
 ⭐ **If you like my work, consider giving a star!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" width="100%" />
 
 </div>
