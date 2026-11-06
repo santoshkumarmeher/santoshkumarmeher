@@ -1,3 +1,4 @@
+# Save this file as: .github/workflows/profile-cards.yml
 name: Profile Summary Cards
 
 on:
