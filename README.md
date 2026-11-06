@@ -97,20 +97,12 @@ print(me.mission())
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=santoshkumarmeher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumarmeher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" />
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=santoshkumarmeher&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=santoshkumarmeher&theme=onedark&no-frame=true&no-bg=true&row=7&margin-w=10" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshkumarmeher&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff" width="100%" />
 
 </div>
 
